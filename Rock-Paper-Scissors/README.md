@@ -6,7 +6,7 @@ Rock-Paper-Scissors 🪨 🧻 ✂️
 Rock-paper-scissors
 
 Introduction 👀
-This is a single-player game of Rock-Paper-Scissors played against the computer, made in C language.
+This is a single-player game of Rock-Paper-Scissors played against the computer, made in Python language.
 
 How It Works 🚀
 First, the player is prompted for a name, which is saved for use on the scoresheet.
